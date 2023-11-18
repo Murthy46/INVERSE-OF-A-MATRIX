@@ -15,7 +15,7 @@ Using the np.linalg.inv(), we can find the solution
 End the program
 
 ## Program:
-'''
+```
 #Program to find the inverse of a matrix.
 #Developed by: Sundaramurthy M
 #RegisterNumber:212222233006
@@ -24,7 +24,7 @@ import numpy as np
 A=np.array([[1,0,3],[-1,2,-2],[2,3,-1]])
 inverse=np.linalg.inv(A)
 print(inverse)
-'''
+```
 
 ## Output:
 <img width="1440" alt="Screenshot 2023-11-15 at 9 47 01 PM" src="https://github.com/Murthy46/INVERSE-OF-A-MATRIX/assets/145112768/68e832a5-a3f4-4e46-b32f-f66cdf8c08f7">
